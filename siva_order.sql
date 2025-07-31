@@ -5,3 +5,7 @@
 
 	    -- Extract order data from xmlDoc
 
+        
+		-- Cancel order by calling order_tool.order_cancel
+
+	 
