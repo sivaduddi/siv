@@ -1,9 +1,4 @@
-/*
-** ----------------------------------------------------------------------
-** The package customer_tool collects some usefull things working with
-** customer stuff.
-** ----------------------------------------------------------------------
-*/
+
 
 SET DEFINE OFF
 

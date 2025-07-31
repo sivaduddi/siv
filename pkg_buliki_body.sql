@@ -1,25 +1,4 @@
-/*
-** -----------------------------------------------------------------------
-** The package calvin provides functionality for communications with the
-** KORDOBA backoffice via Calvin interface (library libCalvinQuery).
-**
-** The following functionalities are supported:
-**
-** tan validation,
-** underlying-stock query,
-** underlying-stock lock/release,
-** account balance query,
-** account transfer,
-** SEPA cash transfer
-** authentication,
-** session tan activation,
-** session tan deactivation,
-** create session token,
-** login
-** logout
-**
-** -----------------------------------------------------------------------
-*/
+
 
 PROMPT ------------------------------------------------------------------;
 PROMPT $Id$

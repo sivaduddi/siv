@@ -1,10 +1,4 @@
---- SIVA CODE
-    
-	/*
-	 * The procedure implements order capture for FTNG frontend. 
-	 * Input is the /Ordr subtree of the request document. 
-	 * The procedure return a ftng_types.t_tx_result structure.
-	*/
+
 	FUNCTION order_capture(
 	    p_order IN  XMLTYPE
 	)

@@ -1,15 +1,4 @@
-/* ===========================================================================
-** (c) IBM - e-Financial Solutions,   ALL RIGHTS RESERVED
-** ---------------------------------------------------------------------------
-** Project:         Consors FutureTrader
-** Script:          cft_order_val_check_functions_body.sql
-** Description:     create package body for package cft_order_val_check_functions.
-**                  this package contains all subfunctions called by
-**                  sp_order_validate
-** ---------------------------------------------------------------------------
-** $Id$
-** ===========================================================================
-*/
+
 
 PROMPT ------------------------------------------------------------------;
 PROMPT $Id$
